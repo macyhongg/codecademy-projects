@@ -1,0 +1,58 @@
+body {
+  background-color: black;
+  display: block;
+  margin: 8px;
+  text-align: center;
+  font-family: verdana;
+  color: white;
+}
+
+header {
+  font-weight: normal;
+  font-size: 50px;
+  margin: 30px auto;
+}
+
+h1 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+h2 {
+  margin: 20px auto;
+}
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+img {
+  margin: 20px auto;
+}
+a {
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+  margin: 20px auto;
+  display: block;
+}
+
+/* img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+} */
+
+.content {
+  max-height: 800px;
+  margin: auto;
+}
+
+.copyright {
+  text-align:right;
+  padding-bottom: 20px;
+  color: gray;
+  font-size: 16px;
+}
