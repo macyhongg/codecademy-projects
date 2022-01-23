@@ -1,0 +1,47 @@
+header {
+  text-align: center;
+}
+
+body {
+  background-color: #e3f6f5;
+  color: #272343;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+h1 {
+  color: #272343;
+  font-size: 70px;
+  text-align: center;
+}
+
+h2 {
+  color: #272343;
+  font-size: 30px;
+  text-align: center;
+  text-transform: uppercase ;
+}
+
+div {
+  border: 1px solid;
+  background-color: #fffffe;
+  margin: 50px auto;
+  max-width: 900px;
+  text-align: center;
+}
+
+table {
+  table-layout: auto;
+  width: 100%;
+  /* max-width: 900px; */
+  margin: auto;
+  text-align: center;
+  border-collapse: separate;
+  border-spacing: 10px;
+  /* border: 1px solid; */
+}
+
+.code {
+  font-family: monospace;
+  background-color: #bae8e8;
+  color: #272343;
+}
