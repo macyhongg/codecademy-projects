@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  font-family: 'Bebas Neue';
+  font-size: 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  width: 4rem;
+}
+
+button {
+  background-color: #078080;
+  color: white;
+  padding: 10px 20px;
+  margin-top: 2rem;
+  text-transform: uppercase;
+}
+
+#quote {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-style: italic;
+}
+
+#author {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  font-weight: 100;
+}
+
+.title {
+  margin: 2rem;
+}
